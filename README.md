@@ -13,7 +13,8 @@
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#thumbsup-how-to-contribute">How To Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#handshake-ead-ecosystem">Ead Ecosystem</a>&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#handshake-ead-ecosystem">Ead Ecosystem</a>
 </p>
 
 <p align="center">
@@ -55,6 +56,10 @@ To run the config server:
 -  Create a branch with your feature: `git checkout -b my-feature`;
 -  Commit changes: `git commit -m 'feat: My new feature'`;
 -  Make a push to your branch: `git push origin my-feature`.
+
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/Duduxs/ead-config-server/blob/main/LICENSE) for more information.
+
 
 ---
 
