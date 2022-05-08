@@ -5,7 +5,7 @@
   
   <p>It was created in order to save and share configurations among microservices from ecossystem.</p>
   
-  <p>Also see <a href="https://github.com/Duduxs/ead-config-server-repo">yaml configs is here</p>
+  <p>Also see <a href="https://github.com/Duduxs/ead-config-server-repo-ms">yaml configs is here</p>
   
 </h4>
 
@@ -38,10 +38,10 @@ To clone and run these configurations, you'll need [Git](https://git-scm.com), F
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Duduxs/ead-config-server
+$ git clone https://github.com/Duduxs/ead-config-server-ms
 
 # Now clone the service-registry repo
-$ git clone https://github.com/Duduxs/ead-service-registry
+$ git clone https://github.com/Duduxs/ead-service-registry-ms
 ```
 
 To run the config server:
@@ -58,7 +58,7 @@ To run the config server:
 -  Make a push to your branch: `git push origin my-feature`.
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/Duduxs/ead-config-server/blob/main/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/Duduxs/ead-config-server-ms/blob/main/LICENSE) for more information.
 
 
 ---
@@ -67,16 +67,16 @@ This project is under the MIT license. See the [LICENSE](https://github.com/Dudu
 Take a look into others microservices that were developed for the EAD Plataform.
  
  - Cross Cuting Microservices
-    - <a href="https://github.com/Duduxs/ead-service-registry">Service Registry</a>
-    - <a href="https://github.com/Duduxs/ead-config-server-repo">Config Server</a>
-    - <a href="https://github.com/Duduxs/ead-config-server">Config Server (Impl)</a>
-    - <a href="https://github.com/Duduxs/ead-api-gateway">Gateway</a>
+    - <a href="https://github.com/Duduxs/ead-service-registry-ms">Service Registry</a>
+    - <a href="https://github.com/Duduxs/ead-config-server-repo-ms">Config Server</a>
+    - <a href="https://github.com/Duduxs/ead-config-server-ms">Config Server (Impl)</a>
+    - <a href="https://github.com/Duduxs/ead-api-gateway-ms">Gateway</a>
 - Business Microservices
-    - <a href="https://github.com/Duduxs/ead-authuser">Auth User</a>
-    - <a href="https://github.com/Duduxs/ead-course">Course</a>
-    - <a href="https://github.com/Duduxs/ead-notification">Notification</a>
+    - <a href="https://github.com/Duduxs/ead-authuser-ms">Auth User</a>
+    - <a href="https://github.com/Duduxs/ead-course-ms">Course</a>
+    - <a href="https://github.com/Duduxs/ead-notification-ms">Notification</a>
 - Study case Microservices
-    - <a href="https://github.com/Duduxs/ead-notification-hex">Notification With Hexagonal Architecture</a>
+    - <a href="https://github.com/Duduxs/ead-notification-hex-ms">Notification With Hexagonal Architecture</a>
     
 ---
 
